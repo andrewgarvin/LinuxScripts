@@ -1,2 +1,2 @@
-# LinuxScripts
-Random Linux Scripts
+# Andrew's Linux Scripts
+Random Linux scripts that I thought were cool
